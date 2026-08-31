@@ -18,6 +18,8 @@ See the open repository issues for the active roadmap and cleanup work.
 
 Parliamentary information can change over time. The project should distinguish sourced facts from derived calculations and document the source and retrieval date for datasets as the application evolves.
 
+The repository now includes a dedicated provenance and methodology record in [`SOURCES.md`](SOURCES.md). It defines how source URLs, retrieval dates, dataset as-of dates, derived statistics, and reuse checks should be recorded as the project expands.
+
 This is an independent visualization project and is not an official Parliament of India or Digital Sansad product.
 
 ## Deployment
